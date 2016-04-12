@@ -1,2 +1,3 @@
-# wroclaw-does-it
-Wrocław does IT
+# Wrocław does IT
+
+strona z materiałami dla uczestników wykładów oraz laboratoriów.
